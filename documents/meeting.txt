@@ -1,0 +1,7 @@
+Project meeting notes
+
+- Finish the website redesign by Friday.
+- Maya will prepare the homepage.
+- Review the mobile layout.
+- Reduce image loading times.
+- Schedule the next meeting for Monday.
